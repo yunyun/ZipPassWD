@@ -1,4 +1,7 @@
 ## 程序启动
+```shell
+python -m venv venv
+```
 - 在Windows系统中，使用以下命令：
 ```shell
 venv\Scripts\activate.bat
